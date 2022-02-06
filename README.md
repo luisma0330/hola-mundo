@@ -1,6 +1,6 @@
-# hola-mundo
+#Hola Mundo
 
-Repositorio del taller de github
+Mi Primer Repositorio.
 
 Autor:
 Luis Ojeda
